@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=73737038_002D39e4_002D4456_002D90da_002D080b4f70607c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DE35C038-58AF-49A5-86A6-AA46812AF4DB::net8.0::AutotestForWebform.Tests.RegistrationAndAuthorization&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DE35C038-58AF-49A5-86A6-AA46812AF4DB::net8.0::AutotestForWebform.Tests.NegativeInputDataForRegistration("","","")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DE35C038-58AF-49A5-86A6-AA46812AF4DB::net8.0::AutotestForWebform.Tests.DisplayingTopToolbarTest("800,600")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DE35C038-58AF-49A5-86A6-AA46812AF4DB::net8.0::AutotestForWebform.Tests.DisplayingTopToolbarTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DE35C038-58AF-49A5-86A6-AA46812AF4DB::net8.0::AutotestForWebform.Tests.TopToolbarButtonsTesting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DE35C038-58AF-49A5-86A6-AA46812AF4DB::net8.0::AutotestForWebform.Tests.LogOutButtonTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DE35C038-58AF-49A5-86A6-AA46812AF4DB::net8.0::AutotestForWebform.Tests.NegativeInputDataForRegistration&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DE35C038-58AF-49A5-86A6-AA46812AF4DB::net8.0::AutotestForWebform.Tests.NegativeInputDataForAuthorization&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
